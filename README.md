@@ -1,4 +1,4 @@
-# cap-touch-button-board
+# capacitive-touch-button-board-prototype
 
 ![Version 1.1 of the capacitive touch button test board front](img/cap-touch-button-assembled-front.jpeg)
 ![Version 1.1 of the capacitive touch button test board back](img/cap-touch-button-assembled-back.jpeg)
