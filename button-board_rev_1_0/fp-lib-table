@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FTSH-105-01-S-DV-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/FTSH-105-01-S-DV-TR")(options "")(descr ""))
+  (lib (name "LTST-C230K")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/LTST-C230K")(options "")(descr ""))
+  (lib (name "GSB1C41110SSHR")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/GSB1C41110SSHR")(options "")(descr ""))
+  (lib (name "AZ1117CH2")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/AZ1117CH2")(options "")(descr ""))
+  (lib (name "NC5FAH")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/NC5FAH")(options "")(descr ""))
+)

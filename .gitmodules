@@ -1,0 +1,3 @@
+[submodule "button-board_rev_1_1/bringup_firmware/components/esp_dmx"]
+	path = button-board_rev_1_1/bringup_firmware/components/esp_dmx
+	url = git@github.com:someweisguy/esp_dmx.git

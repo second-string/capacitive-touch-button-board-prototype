@@ -1,0 +1,5 @@
+#! /usr/bin/expect
+spawn telnet localhost 4444
+expect "> "
+send "esp apptrace start file://jtag_log_output.hex\n"
+interact

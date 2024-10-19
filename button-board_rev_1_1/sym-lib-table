@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FTSH-105-01-S-DV-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/FTSH-105-01-S-DV-TR/FTSH-105-01-S-DV-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "AZ1117CH2")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/AZ1117CH2/AZ1117CH2.kicad_sym")(options "")(descr ""))
+  (lib (name "Single_LED_Touch_Key")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints/Single_LED_Touch_Key/Single_LED_Touch_Key.kicad_sym")(options "")(descr ""))
+)
